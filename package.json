@@ -6,7 +6,7 @@
     "build": "NODE_ENV=production next build",
     "start": "next start",
     "lint": "next lint",
-    "export": "next export", 
+    "export": "next export",
     "graphql-codegen": "graphql-codegen --config codegen.yml"
   },
   "dependencies": {
